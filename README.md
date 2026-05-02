@@ -104,11 +104,12 @@ A complete offline-first POS system for retail shops, marts, hotels, and restaur
 
 ---
 
-### 📊 GitHub stats
+### 📊 At a glance
 
 <p>
-  <img height="165" alt="Tariq's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Tariqbaloch786&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tariqbaloch786&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" />
+  <a href="https://github.com/Tariqbaloch786?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Tariqbaloch786?label=Followers&style=for-the-badge&logo=github&color=4f46e5&logoColor=white" /></a>
+  <a href="https://github.com/Tariqbaloch786?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&style=for-the-badge&logo=github&color=10b981&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTariqbaloch786" /></a>
+  <a href="https://github.com/Tariqbaloch786/NovaPOS/stargazers"><img alt="NovaPOS stars" src="https://img.shields.io/github/stars/Tariqbaloch786/NovaPOS?label=NovaPOS%20stars&style=for-the-badge&logo=github&color=f59e0b&logoColor=white" /></a>
 </p>
 
 ---
