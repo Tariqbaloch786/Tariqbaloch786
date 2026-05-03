@@ -8,9 +8,6 @@
   <a href="https://github.com/Tariqbaloch786?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Tariqbaloch786?label=Follow&style=social" />
   </a>
-  <a href="https://github.com/Tariqbaloch786/NovaPOS/stargazers">
-    <img alt="NovaPOS stars" src="https://img.shields.io/github/stars/Tariqbaloch786/NovaPOS?style=social" />
-  </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tariqbaloch786&label=Profile%20views&color=4f46e5&style=flat" />
 </p>
 
@@ -26,33 +23,6 @@
 🗃️  Data        →  MySQL, PostgreSQL, SQLite, MongoDB
 🚀  Deployment  →  Docker, Render, GitHub Actions, Inno Setup
 ```
-
----
-
-### 🚀 Featured project
-
-<a href="https://github.com/Tariqbaloch786/NovaPOS">
-  <img align="right" width="380" alt="NovaPOS dashboard screenshot" src="https://raw.githubusercontent.com/Tariqbaloch786/NovaPOS/main/screenshots/01-dashboard.png" />
-</a>
-
-#### [NovaPOS — Modern Point of Sale for Windows](https://github.com/Tariqbaloch786/NovaPOS)
-
-A complete offline-first POS system for retail shops, marts, hotels, and restaurants. Ships as a single Windows installer, runs in its own native window, and works fully offline once activated.
-
-- 💳 Fast checkout — barcodes, multiple payment methods, printable receipts
-- 📦 Inventory with categories, stock alerts, suppliers
-- 🏨 Hotel module — rooms, reservations, check-in/out
-- 📊 Reports, customer CRM, multi-user roles
-- 🔒 Hardware-bound subscription licensing
-- 🎨 Light/dark themes, responsive on any screen
-
-`Python` `Flask` `SQLite` `pywebview` `PyInstaller` `Inno Setup`
-
-<a href="https://github.com/Tariqbaloch786/NovaPOS">
-  <img alt="NovaPOS repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=Tariqbaloch786&repo=NovaPOS&theme=tokyonight&hide_border=true" />
-</a>
-
-<br clear="right" />
 
 ---
 
@@ -109,7 +79,6 @@ A complete offline-first POS system for retail shops, marts, hotels, and restaur
 <p>
   <a href="https://github.com/Tariqbaloch786?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Tariqbaloch786?label=Followers&style=for-the-badge&logo=github&color=4f46e5&logoColor=white" /></a>
   <a href="https://github.com/Tariqbaloch786?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&style=for-the-badge&logo=github&color=10b981&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTariqbaloch786" /></a>
-  <a href="https://github.com/Tariqbaloch786/NovaPOS/stargazers"><img alt="NovaPOS stars" src="https://img.shields.io/github/stars/Tariqbaloch786/NovaPOS?label=NovaPOS%20stars&style=for-the-badge&logo=github&color=f59e0b&logoColor=white" /></a>
 </p>
 
 ---
@@ -118,8 +87,8 @@ A complete offline-first POS system for retail shops, marts, hotels, and restaur
 
 I take on freelance and contract projects in:
 
-- 🛒 **POS / inventory / hotel software** — like [NovaPOS](https://github.com/Tariqbaloch786/NovaPOS), white-labelled or customised for your business
-- 🌐 **Web apps** — Laravel + PHP backends, Node.js APIs
+- 🛒 **Business software** — POS, inventory, hotel & restaurant management, custom desktop tools
+- 🌐 **Web apps** — Laravel + PHP backends, Node.js APIs, full-stack dashboards
 - 📱 **Mobile apps** — Flutter for iOS and Android from one codebase
 - 🧠 **Computer vision** — custom model training, image/video pipelines, real-time detection
 - 💻 **Desktop apps** — Python-based, packaged for Windows
