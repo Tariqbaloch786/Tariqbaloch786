@@ -93,7 +93,7 @@ I take on freelance and contract projects in:
 - 🧠 **Computer vision** — custom model training, image/video pipelines, real-time detection
 - 💻 **Desktop apps** — Python-based, packaged for Windows
 
-📧 **[tariqbalochtariq295@gmail.com](mailto:tariqbalochtariq295@gmail.com)**
+📧 **[tariqbalochtariq295@gmail.com](mailto:tariqbalochtariq294@gmail.com)**
 
 <p align="center">
   <em>Thanks for stopping by ⭐</em>
